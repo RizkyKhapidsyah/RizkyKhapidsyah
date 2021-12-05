@@ -1,5 +1,5 @@
 #### Have a nice day. 
-This is a large archive to store my various source code and programs and the source code of other developers (free license) for review and reference for building the system at a later time.
+This is a large archive to store my various source code and the source code of other developers (free license) for review and reference for building the system at a later time.
 
 
 
