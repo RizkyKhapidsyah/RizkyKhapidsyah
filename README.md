@@ -40,6 +40,4 @@ This is a large archive to store my various source code and the source code of o
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkyKHapidsyah&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RizkyKHapidsyah)  
-
 ![Profile views](https://gpvc.arturio.dev/RizkyKHapidsyah)  
